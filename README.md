@@ -14,6 +14,9 @@ https://github.com/cwbyrd/School_District_Analysis/blob/main/Analysis/Del%201%20
    e. The % Overall Passing increases by a little less than a point. 
 
 2. How is the school summary affected? Thomas highschool was the only school that was impacted, which makes sense, as we changed 9th graders from THS. 
+
+https://github.com/cwbyrd/School_District_Analysis/blob/main/Analysis/Del%202%20Per%20School%20Summary.PNG
+
 3. How does replacing the ninth graders's math and reading scores affect Thomas High School's (THS) performance relative to the other schools? Did not really change its position within the school district. 
 4. How does replacing the ninth-grade scores affect the following? 
    a. Math and reading scores by grade : Since only Thomas High School was impacted, it will only impact 9th grade and only by a little. 
