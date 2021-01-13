@@ -20,6 +20,8 @@ https://github.com/cwbyrd/School_District_Analysis/blob/main/Analysis/Del%201%20
    b. Scores by school spending: There was no change in school spending when replacing THS 9th grade scores with NaN. 
    c. Scores by school size: Median scores did not really change that much when excluding 9th grade at Thomas.
    d. Scores by school type: No real changes for charter schools (which THS is).  
+   
+   https://github.com/cwbyrd/School_District_Analysis/tree/main/Analysis/Math%20and%20reading%20and%20overall%20scores%20by%20grade
 
 ## Summary - 4 major changes occuring once the 9th graders received all NaNs for their grades.    
 With respect to changes that occurred once 9th graders received all NaNs is the following: 
