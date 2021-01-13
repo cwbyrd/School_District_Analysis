@@ -2,6 +2,7 @@
 ## Overview: The purpose of this analysis is to create an analysis for Thomas Highschool Reading and Math grades where 9th graders are excluded. This primarily has to do with the fact that there is a problem 9th grade scores and the school board would like to maintain its high standards by only including grades they are sure about. In this case, grades 10 through 12. 
 ## Deliverable 1: Replacing the scores with NaNs. AS you can see in the picture in the link below, the 9th grade scores for reading and math have been replaced with NaNs. When recalculating the statistics, 9th graders will be excluded. 
 
+https://github.com/cwbyrd/School_District_Analysis/blob/main/Analysis/Del%201%20with%20Nan%20in%209th%20graders.PNG
 
 ## Deliverable 2: In deliverable 2, we essentially replace the analysis we did in our modules where we exclude 9th graders. 
 ### Results
